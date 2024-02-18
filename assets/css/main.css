@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    font-family: 'Cabin', sans-serif;
+}
+
+/* estilo seccion Destacados */
+
+.card {
+height: 100%;
+}
